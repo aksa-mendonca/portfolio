@@ -1,0 +1,25 @@
+.contact {
+  text-align: center;
+  align-items: center;
+  padding: 40px 100px;
+  background-color: #d5e0b5;
+  /* width: 100%; */
+}
+
+.contact h3 {
+  font-size: 1.2rem;
+  /* text-align: center;
+  margin: 100px 0 0; */
+}
+.logotype-footer {
+  height: 35px;
+}
+.info-contact {
+  
+  text-align: center;
+  margin-top: 3rem;
+  width: 1000px;
+  /* padding: 0 30px; */
+  display: grid;
+  grid-template-columns: 20% 80%;
+}

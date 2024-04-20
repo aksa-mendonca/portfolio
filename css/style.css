@@ -1,0 +1,24 @@
+@import "./reset.css";
+@import "./header.css";
+@import "./whoisme.css";
+@import "./experience.css";
+@import "./formation.css";
+@import "./footer.css";
+
+body {
+  background-color: #f8f4c4;
+  color: #114d4d;
+  height: 100%;
+  width: 100%;
+  font-family: 'Times New Roman', Times, serif;
+  display: block;
+}
+
+main {
+  margin: 65px;
+}
+
+a {
+  text-decoration: none;
+  color: #114d4d;
+}
