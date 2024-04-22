@@ -21,7 +21,7 @@ nav {
   font-size: 30px;
   font-weight: bold;
   /* font-style: bold; */
-  background-color: #a5c3a7;
+  background-color: #8867bb;
   padding: 30px;
   display: flex;
   align-items: center;
@@ -40,10 +40,6 @@ nav {
 
 }
 
-.links-nav:hover {
-  background-color: #a5c3a7;
-}
-
 nav ul li {
   margin-right: 30px;
   font-size: 20px;
@@ -51,4 +47,8 @@ nav ul li {
 
 nav li {
   text-decoration: none;
+}
+
+.name-nav {
+  margin-left: 2rem;
 }

@@ -1,11 +1,13 @@
 .experience {
+  padding: 1rem;
   margin-top: 3rem;
-  border: solid 2px #f8f4c4;
+  border-radius: 10px;
+  border: solid 2px #E3BCFF;
   transition: 0.5s;
 }
 
 .experience:hover {
-  border: solid 2px #47667b;
+  border: solid 2px #3b234a;
 }
 
 .title-experience {
@@ -13,7 +15,7 @@
   font-weight: bold;
 }
 
-.subtitle-info-experience {
+.subtitle-experience {
   margin-top: 1rem;
   font-size: 25px;
 }
@@ -23,6 +25,15 @@
   font-size: 20px;
 }
 
-/* .info-experience:hover {
-  color: #47667b;
-} */
+.subtitle-info-experience {
+  text-decoration: underline;
+  margin-top: 1rem;
+}
+
+.subtext-info-experience, .subtitle-info-experience {
+  font-size: 15px;
+}
+
+.links-info-experience {
+  text-decoration: underline;
+}
